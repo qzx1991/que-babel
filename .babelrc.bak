@@ -1,8 +1,0 @@
-{
-  "plugins": ["@babel/plugin-syntax-jsx", [
-    "@babel/plugin-transform-react-jsx", {
-      "pragma": "que.createElement",
-      "useBuiltIns": true
-    }
-  ], "./plugin" ]
-}

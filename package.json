@@ -1,5 +1,5 @@
 {
-  "name": "que-babel",
+  "name": "babel-plugin-transform-que-jsx",
   "version": "1.0.0",
   "description": "",
   "main": "plugin.js",
@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.12.3",
     "@babel/plugin-syntax-jsx": "^7.12.1",
-    "@babel/plugin-transform-react-jsx": "^7.12.1"
+    "html-tags": "^3.1.0",
+    "svg-tags": "^1.0.0"
   }
 }
